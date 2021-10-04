@@ -1,0 +1,23 @@
+#exp{
+    margin: 20px;
+
+}
+#exp th{
+    padding: .40rem;
+    font-size: larger;
+    color: #2c3e50;
+}
+
+#exp td{
+    padding: .40rem;
+    font-size: normal;
+    color: #2c3e50;
+}
+
+.text-secondary {
+    color: #2c3e50!important;
+}
+
+ul li.lead{
+    color: #2c3e50!important;
+}
